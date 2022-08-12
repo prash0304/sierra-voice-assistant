@@ -23,4 +23,4 @@ This is an AI based assistant
 <code>pip3 install pyautogui</code>
 
 # To clone use
-<code>git clone https://github.com/galanteria01/Sierra_AI_Assistant.git </code>
+<code>git clone https://github.com/prash0304/sierra-voice-assistant.git </code>
